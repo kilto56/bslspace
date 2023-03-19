@@ -13,7 +13,12 @@ body,html,header,h3,h2,div,h1,footer {
 @font-face {
     font-family: "Paladins";
     src: local("paladins-webfont.woff2"), url("https://drive.google.com/uc?export=download&id=1NW6oK3gcIn1jp0C4t6GqSIG7Gha4v9-t");
-  }
+}
+
+@font-face {
+    font-family: "Paladins";
+    src: local("paladins-webfont"), local("paladins-webfont.woff2"), url("paladins-webfont.woff2");
+}
 
 .police {
     font-family: Paladins;
