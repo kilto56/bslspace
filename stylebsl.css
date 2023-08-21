@@ -49,9 +49,8 @@ body,html,header,h3,h2,div,h1,footer {
     padding-right: 7px;
     padding-top: 30px;
     padding-bottom: 30px;
-    transition-property: background-color color;
     transition-duration: 0.5s;
-    transition-timing-function: ease-in;
+    transition-property: background-color color;
 }
 
 .pagenav {
